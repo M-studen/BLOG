@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.xwsclub.top/posts/45545.html</loc>
+    
+    <lastmod>2023-10-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.xwsclub.top/posts/45913.html</loc>
     
     <lastmod>2023-10-02</lastmod>
@@ -203,6 +212,20 @@
   
   <url>
     <loc>https://blog.xwsclub.top/tags/%E6%96%87%E6%A1%A3/</loc>
+    <lastmod>2023-10-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.xwsclub.top/tags/%E5%8A%A8%E6%80%81%E5%A3%81%E7%BA%B8/</loc>
+    <lastmod>2023-10-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.xwsclub.top/tags/Nuitka/</loc>
     <lastmod>2023-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
