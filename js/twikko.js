@@ -1,6 +1,8 @@
 var theme = document.querySelector('[data-theme]').getAttribute('data-theme');
 var div = document.getElementsByClassName("tk-content")
-if (theme === 'dark') {
-    div.classList.add('dark');
-} else if (theme === 'light') {
-    div.classList.add('light');}
+console.log(theme);
+if (theme=="dark"){
+    console.log(div);
+    div.style.background = 'red';
+    console.log("ff");
+}
